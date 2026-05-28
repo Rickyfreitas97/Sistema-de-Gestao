@@ -1,0 +1,13 @@
+{
+    "itens": [],
+    "registros": [],
+    "pessoas": [],
+    "config": {
+        "usuarios": [
+            {
+                "usuario": "admin",
+                "senha": "admin"
+            }
+        ]
+    }
+}
